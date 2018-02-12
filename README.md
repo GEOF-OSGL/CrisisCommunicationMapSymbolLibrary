@@ -1,5 +1,7 @@
 # CrisisCommunicationMapSymbolLibrary
 
+An initial cartographic symbol system specifically adapted to crisis communication.
+
 Recent crisis events worldwide have disclosed many flaws in the existing technologies and policies with regard to crisis management. 
 In the area of cartography they pointed to a lack of guidelines, standards and cartographic symbols required for making maps specifically
 adapted to crisis communication.
