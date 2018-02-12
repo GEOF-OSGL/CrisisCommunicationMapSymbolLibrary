@@ -40,6 +40,7 @@ Your contributions are enthusiastically welcome.
 LICENCE
 ----------------------------------------------------------------------------------
 The map symbols are licensed under CC-BY-SA (http://creativecommons.org/licenses/by-sa/4.0/legalcode).
-Copyright (C) 2013, 2018 Ana Kuveždić Divjak (University of Zagreb, Faculty of Geodesy, Croatia)
+
+Copyright (C) 2013, 2018 Ana Kuveždić Divjak (University of Zagreb, Faculty of Geodesy, Croatia).
 
 Please send any problems or comments regarding the crisis communication map symbols to akuvezdic@geof.hr, they will be much appreciated.
