@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5mm" height="8.5mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3.11294 3.11294"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:white}
+    .fil0 {fill:#00923F}
+    .fil1 {fill:white;fill-rule:nonzero}
+    .fil3 {fill:#00923F;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="okviri">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="0,0 3.11294,0 3.11294,3.11294 0,3.11294 "/>
+ </g>
+ <g id="piktogrami">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon class="fil1" points="0.46207,2.89038 2.528,2.89038 2.62508,2.89038 2.68335,2.89038 2.68335,2.84552 2.68335,2.65127 2.37272,2.65127 0.46207,2.65127 0.403803,2.65127 0.403803,2.6961 0.403803,2.84552 0.403803,2.89038 "/>
+  <polygon class="fil1" points="2.6449,0.782482 1.5579,0.24204 1.55746,0.240905 1.55647,0.241307 1.55544,0.240905 1.55497,0.24204 0.468002,0.782482 0.558571,0.964754 1.55647,0.468735 2.55433,0.964754 "/>
+  <g id="_92589504">
+   <path id="_92589888" class="fil2" d="M0.843166 1.33259c0.00395526,-0.0109502 -0.000439473,-0.00626249 0.00520043,-0.0118658l-0.0124517 0.0012818 0.00725131 0.010584z"/>
+   <g>
+    <polygon id="_92589840" class="fil1" points="2.42033,1.67403 2.13639,1.82652 2.13639,2.20583 1.54848,2.49859 0.960689,2.20583 0.960689,1.82535 0.679133,1.67403 0.960689,1.52069 0.960689,1.52047 0.960945,1.52047 0.963728,1.51904 0.736228,1.39265 0.674115,1.35768 1.25759,1.04042 1.55248,1.20082 1.83942,1.04423 2.36015,1.32805 2.42311,1.36211 2.13778,1.52054 "/>
+    <polygon id="_92589792" class="fil3" points="1.82869,1.99173 2.05794,1.86871 2.05794,2.15697 1.58811,2.39073 1.58811,1.85802 "/>
+    <polygon id="_92589744" class="fil3" points="2.04611,1.55998 2.25475,1.6734 1.82949,1.90186 1.62536,1.78968 "/>
+    <polygon id="_92589696" class="fil3" points="1.27015,1.99173 1.50933,1.85894 1.50933,2.39088 1.03954,2.15697 1.03954,1.8678 "/>
+    <polygon id="_92589648" class="fil3" points="1.26946,1.90186 0.844228,1.67366 1.05258,1.55998 1.47714,1.78968 "/>
+    <polygon id="_92589600" class="fil3" points="1.83942,1.13391 2.25974,1.36255 2.05626,1.47579 1.63107,1.24748 "/>
+    <polygon id="_92589552" class="fil3" points="1.0406,1.47169 0.837233,1.35849 1.25759,1.1297 1.46594,1.2432 "/>
+   </g>
+  </g>
+ </g>
+</svg>

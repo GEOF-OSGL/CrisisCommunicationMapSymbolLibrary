@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.9439mm" height="7.9713mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 0.919316 0.819345"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#0093DD;stroke-width:0.00783236}
+    .str0 {stroke:#0093DD;stroke-width:0.0205574}
+    .fil1 {fill:white}
+    .fil0 {fill:#0092DD}
+    .fil2 {fill:white;fill-rule:nonzero}
+    .fil3 {fill:#0093DD;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="okviri">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M0.191071 0l0.537175 0c0.105089,0 0.191071,0.0859812 0.191071,0.191081l0 0.437194c0,0.105089 -0.0859812,0.191071 -0.191071,0.191071l-0.537175 0c-0.1051,0 -0.191071,-0.0859812 -0.191071,-0.191071l0 -0.437194c0,-0.1051 0.085971,-0.191081 0.191071,-0.191081z"/>
+ </g>
+ <g id="piktogrami">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <path class="fil1" d="M0.514695 0.153019c-0.0370238,0.0182652 -0.162794,0.0635943 -0.214146,-0.0585166l0.0354923 0c0.0322545,0.0767099 0.109499,0.0555974 0.166833,0.0264574l0.0118205 0.0320592zm0.247573 0.0327685l-0.0343822 0.000380312c-0.0228906,-0.0806158 -0.1029,-0.0685794 -0.1634,-0.0465522l-0.0118308 -0.0318537c-0.00315556,0.00119233 0.17039,-0.0601201 0.209613,0.0780255zm-0.621172 0.272868l0.190207 0 0.190916 0 0.194432 0.130899 0.0109982 -0.364184 0 0 0.0355745 0 0 0 0.0151919 0.502988 0 0 -0.0659584 0 0 0 0 -7.19508e-005 -0.571362 0 0 -0.269631 0 0z"/>
+  <path class="fil2 str0" d="M0.319883 0.216274c-0.0806055,0 -0.145968,0.0653416 -0.145968,0.145968 0,0.0805747 0.0653622,0.145978 0.145968,0.145978 0.0806158,0 0.145968,-0.0654033 0.145968,-0.145978 0,-0.0806261 -0.0653519,-0.145968 -0.145968,-0.145968z"/>
+  <polygon class="fil3 str1" points="0.426864,0.310149 0.399409,0.282685 0.295245,0.386869 0.240357,0.332022 0.212903,0.359477 0.295245,0.441799 "/>
+ </g>
+</svg>

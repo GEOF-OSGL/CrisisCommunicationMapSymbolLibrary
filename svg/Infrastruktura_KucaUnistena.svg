@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.944mm" height="7.9713mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1.44498 1.28783"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#0093DD;stroke-width:0.0161559}
+    .str0 {stroke:#0093DD;stroke-width:0.0323118}
+    .fil0 {fill:#0092DD}
+    .fil1 {fill:white;fill-rule:nonzero}
+    .fil2 {fill:#0093DD;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="okviri">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M0.300338 0l0.844307 0c0.165194,0 0.300338,0.135144 0.300338,0.300338l0 0.687175c0,0.165162 -0.135144,0.300322 -0.300338,0.300322l-0.844307 0c-0.165194,0 -0.300338,-0.13516 -0.300338,-0.300322l0 -0.687175c0,-0.165194 0.135144,-0.300338 0.300338,-0.300338z"/>
+ </g>
+ <g id="piktogrami">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <path class="fil1" d="M0.364913 1.06511l0.298012 0 0 -0.23838 0.119198 0 0 0.23838 0.297931 0 0 -0.357595 0.119214 0 -0.100716 -0.100716c-0.0365446,0.0275135 -0.0819589,0.0438471 -0.131202,0.0438471 -0.120571,0 -0.218331,-0.0978239 -0.218331,-0.218331 0,-0.0492593 0.0163175,-0.0946897 0.0438309,-0.131218l-0.0703589 -0.0703589 -0.476793 0.476777 0.119214 0 0 0.357595z"/>
+  <path class="fil1 str0" d="M0.957075 0.222741c-0.120571,0 -0.218331,0.097727 -0.218331,0.218315 0,0.120507 0.0977593,0.218331 0.218331,0.218331 0.120571,0 0.218315,-0.0978239 0.218315,-0.218331 0,-0.120588 -0.0977432,-0.218315 -0.218315,-0.218315z"/>
+  <polygon class="fil2 str1" points="1.04359,0.570852 0.957043,0.484354 0.870528,0.570852 0.827279,0.527587 0.913777,0.441056 0.827279,0.354525 0.870528,0.311276 0.957043,0.397774 1.04354,0.311292 1.08682,0.354573 1.00031,0.441056 1.08684,0.527587 "/>
+ </g>
+</svg>

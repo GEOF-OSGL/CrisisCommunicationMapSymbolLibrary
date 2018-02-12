@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.4mm" height="8.4mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3.04012 3.04012"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:white}
+    .fil0 {fill:#00923F}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="okviri">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="0,0 3.04012,0 3.04012,3.04012 0,3.04012 "/>
+ </g>
+ <g id="piktogrami">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon class="fil1" points="0.451277,2.82283 2.4929,2.82283 2.58884,2.82283 2.64643,2.82283 2.64643,2.77849 2.64643,2.58653 2.33945,2.58653 0.451277,2.58653 0.393696,2.58653 0.393696,2.63083 0.393696,2.77849 0.393696,2.82283 "/>
+  <path class="fil2" d="M1.5201 0.858147c0.420695,0 0.761804,0.341181 0.761804,0.761804 0,0.420695 -0.341109,0.761876 -0.761804,0.761876 -0.420731,0 -0.76184,-0.341181 -0.76184,-0.761876 0,-0.420623 0.341109,-0.761804 0.76184,-0.761804zm-0.457104 0.609472l0.304736 0 0 -0.304736 0.3047 0 0 0.304736 0.304736 0 0 0.304736 -0.304736 0 0 0.304736 -0.3047 0 0 -0.304736 -0.304736 0 0 -0.304736zm1.53269 -0.701798l-1.07418 -0.534084 -0.000434303 -0.00112195 -0.000977182 0.000398111 -0.00101337 -0.000398111 -0.000470495 0.00112195 -1.07418 0.534084 0.0895026 0.180127 0.986157 -0.49022 0.986121 0.49022 0.0894664 -0.180127z"/>
+ </g>
+</svg>
